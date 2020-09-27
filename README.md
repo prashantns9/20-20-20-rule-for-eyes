@@ -18,3 +18,5 @@ This VBScript will remind you with a pop-up after every 20 minutes of working to
 ### Feedback
 - Email - prashantns9@gmail.com
 - Website - https://www.prashantshinde.in
+
+### Please follow on Github if you like my work
