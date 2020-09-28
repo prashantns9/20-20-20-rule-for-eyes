@@ -4,7 +4,7 @@ Sub Remind20
         Case vbYes
             wscript.sleep 1200000
             Remind20
-        Case vbYesNo
+        Case vbNo
             wscript.Quit
         End Select
 End Sub
